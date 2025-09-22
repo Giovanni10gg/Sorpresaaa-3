@@ -18,7 +18,7 @@ Este es un proyecto que muestra flores animadas que aparecen y desaparecen de fo
 
 ## Demostración
 
-Puedes ver una demostración en vivo del proyecto [aquí](https://github.com/Giovanni10gg/Sorpresaaa-3).
+Puedes ver una demostración en vivo del proyecto [aquí](https://github.com/Giovanni10gg/Sorpresaaa-3/blob/main/index.html).
 
 ## Instrucciones de Uso
 
@@ -27,4 +27,5 @@ Puedes ver una demostración en vivo del proyecto [aquí](https://github.com/Gio
 ```bash
 git clone https://github.com/edu5975/flores-amarillas.git
 ```
+
 
